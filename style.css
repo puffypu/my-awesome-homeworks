@@ -3,6 +3,8 @@ h1 {
 }
 button {
   text-align: center;
+  display: block;
+  margin: auto;
   background-color: aqua;
-  color: #000;
+  color: white;
 }
