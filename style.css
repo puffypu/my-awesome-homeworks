@@ -1,3 +1,8 @@
 h1 {
-  color: red;
+  color: blue;
+}
+button {
+  text-align: center;
+  background-color: aqua;
+  color: #000;
 }
